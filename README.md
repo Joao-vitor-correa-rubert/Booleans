@@ -1,0 +1,3 @@
+# Booleans
+
+Boolean em javascript.
